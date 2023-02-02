@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Remove the folders fol_1 and fol_2 and its contents
+#rm -rf fol_1
+#rm -rf fol_2
+
 # Create the first folder
 mkdir fol_1
 
