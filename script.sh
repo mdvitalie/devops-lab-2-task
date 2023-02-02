@@ -33,6 +33,6 @@ chmod 600 fol_2/2_3.txt
 # Print a message indicating that the folders and files have been created
 echo "The folders and files have been created with the specified permissions."
 
+
 # Print a message indicating that the job has completed
 echo "Job completed."
-
